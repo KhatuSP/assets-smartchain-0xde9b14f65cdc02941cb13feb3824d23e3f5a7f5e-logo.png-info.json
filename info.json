@@ -1,0 +1,16 @@
+{
+  "name": "BTCA1",
+  "website": "https://bscscan.com/token/0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e",
+  "description": "BTCA1 is a decentralized BEP20 token on Binance Smart Chain for secure, transparent, and community-driven transactions.",
+  "explorer": "https://bscscan.com/token/0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e",
+  "type": "BEP20",
+  "symbol": "B",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e",
+  "logo": "https://raw.githubusercontent.com/khatusp/assets/main/smartchain/0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e/logo.png",
+  "socials": {
+    "telegram": "https://t.me/btc_a1_official",
+    "github": "https://github.com/khatusp/btc-a1-website"
+  }
+}
